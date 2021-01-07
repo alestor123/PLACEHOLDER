@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for getting images of placeholder text",
   "main": "App.js",
+  "bin": {
+    "placeholder": "cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
