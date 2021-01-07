@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var placeholder = require('./App'),
 options = require('minimist')(process.argv.slice(2));
 (async () => {
