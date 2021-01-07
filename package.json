@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/alestor123/PLACEHOLDER#readme",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "minimist": "^1.2.5"
   }
 }
